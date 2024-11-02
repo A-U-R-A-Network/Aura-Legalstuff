@@ -9,7 +9,7 @@ This Privacy Policy explains how the Discord Bot “Aura,” part of the Aura-Ne
 Aura collects and stores the following data:
 - **User IDs**: For user identification.
 - **Server IDs**: For managing server settings.
-- **Message Content**: For the AI feature, which is transmitted to [Brainshop.ai](https://brainshop.ai/terms) via an API.
+- **Message Content**: For the AI feature, which is transmitted to [Google Gemini](https://gemini.google.com) via an API.
 
 **3. Purpose of Data Processing**
 
