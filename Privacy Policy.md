@@ -26,7 +26,7 @@ All collected data is stored indefinitely.
 
 **6. Data Security**
 
-Aura is developed and maintained solely by Kimiya Morozova, ensuring exclusive access to the system. To protect the security of the data, the following measures are implemented:
+Aura is developed and maintained by Kimiya Morozova, along with other authorized developers who ensure exclusive and secure access to the system. To protect the security of the data, the following measures are implemented:
 - **Access Controls**: Only authorized personnel (the developer) have access to the data.
 - **Network Security**: The database is accessible only through a secure internal network, minimizing exposure to external threats.
 - **Regular Updates**: The system and software are regularly updated to address any security vulnerabilities.
