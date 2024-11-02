@@ -18,7 +18,7 @@ The collected data is used to:
 
 **4. Data Sharing with Third Parties**
 
-Message content is shared with [Brainshop.ai](https://brainshop.ai/terms). Brainshop.ai is committed to adhering to privacy regulations. Detailed information can be found in their [Privacy Policy](https://brainshop.ai/terms).
+Message content is shared with [Google Gemini](https://gemini.google.com). Brainshop.ai is committed to adhering to privacy regulations. Detailed information can be found in their [Privacy Policy](https://policies.google.com/terms/generative-ai).
 
 **5. Data Retention**
 
